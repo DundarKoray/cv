@@ -1,0 +1,39 @@
+body {
+	font-family: arial;
+	font-size: 20px;
+	}
+
+
+/*--------------*/
+/*----TABLE----*/
+
+table {
+  margin-left: 10px;
+  border-spacing: 9px;
+  font-size: 100%;
+}
+
+thead {
+  text-align: left;
+}
+
+/*--------------*/
+/*----my picture----*/
+
+.mypicture {
+  height: 250px;
+  margin-left: -10px;
+}
+
+/*--------------*/
+/*----nav----*/
+nav li {
+  display: inline-block;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.main-button {
+  text-decoration: none;
+  margin-right: 15px;
+}
